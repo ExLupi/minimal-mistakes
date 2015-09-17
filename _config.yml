@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title: Emma Yu
 locale:           en_US
-url:
+url:  http://localhost:4000
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Emma Yu
+  avatar: Headshot.jpg
+  bio: "Graduate Student in Astronomy"
+  email: emmayuastro@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ExLupi
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
