@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
+title: Blog
 modified: 2015-09-17
-excerpt: "Research"
+excerpt: "Blog"
 image:
   feature: CARMA.jpg
-  credit: Emma Yu at CARMA 
+  credit: Emma Yu (2013 CARMA)
   creditlink: https://www.mmarray.org/
 ---
 
